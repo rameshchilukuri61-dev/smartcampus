@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "id": "699fd80c-b6e4-4291-8f10-af14b3f4263d",
+      "name": "jane doe",
+      "email": "jane@example.com",
+      "student_id": "23CS002",
+      "department": "Computer Science",
+      "password": "$2b$12$3Dnel28t6AmL3GHYl5G6xO.ZBy8bC8oXzYIewV1LeflXPgs8hnoFO",
+      "attendance": {
+        "Mathematics": {
+          "attended": 17,
+          "total": 21
+        },
+        "Physics": {
+          "attended": 15,
+          "total": 21
+        },
+        "Chemistry": {
+          "attended": 18,
+          "total": 20
+        },
+        "Computer Science": {
+          "attended": 21,
+          "total": 26
+        },
+        "English": {
+          "attended": 17,
+          "total": 20
+        }
+      },
+      "timetable": [
+        {
+          "id": "t1",
+          "day": "Monday",
+          "time": "09:00 - 10:00",
+          "subject": "Mathematics",
+          "room": "LH-101"
+        },
+        {
+          "id": "t2",
+          "day": "Monday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        },
+        {
+          "id": "t3",
+          "day": "Tuesday",
+          "time": "09:00 - 10:00",
+          "subject": "Chemistry",
+          "room": "LH-102"
+        },
+        {
+          "id": "t4",
+          "day": "Wednesday",
+          "time": "11:30 - 12:30",
+          "subject": "Computer Science",
+          "room": "LH-201"
+        },
+        {
+          "id": "t5",
+          "day": "Thursday",
+          "time": "14:00 - 15:00",
+          "subject": "English",
+          "room": "LH-103"
+        },
+        {
+          "id": "t6",
+          "day": "Friday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        }
+      ]
+    },
+    {
+      "id": "1b856d5a-62a6-411c-aefb-3c07dea910d8",
+      "name": "pavan",
+      "email": "abc@gmail.come",
+      "student_id": "23CS002",
+      "department": "COMPUTER SCIENCE",
+      "password": "$2b$12$7THhZviEWgdXLSBdqUhAQ.itepOtBV98PgQo4ELSg1V7XVRpqIYYG",
+      "attendance": {
+        "Mathematics": {
+          "attended": 16,
+          "total": 20
+        },
+        "Physics": {
+          "attended": 14,
+          "total": 20
+        },
+        "Chemistry": {
+          "attended": 18,
+          "total": 20
+        },
+        "Computer Science": {
+          "attended": 15,
+          "total": 20
+        },
+        "English": {
+          "attended": 17,
+          "total": 20
+        }
+      },
+      "timetable": [
+        {
+          "id": "t1",
+          "day": "Monday",
+          "time": "09:00 - 10:00",
+          "subject": "Mathematics",
+          "room": "LH-101"
+        },
+        {
+          "id": "t2",
+          "day": "Monday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        },
+        {
+          "id": "t3",
+          "day": "Tuesday",
+          "time": "09:00 - 10:00",
+          "subject": "Chemistry",
+          "room": "LH-102"
+        },
+        {
+          "id": "t4",
+          "day": "Wednesday",
+          "time": "11:30 - 12:30",
+          "subject": "Computer Science",
+          "room": "LH-201"
+        },
+        {
+          "id": "t5",
+          "day": "Thursday",
+          "time": "14:00 - 15:00",
+          "subject": "English",
+          "room": "LH-103"
+        },
+        {
+          "id": "t6",
+          "day": "Friday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        }
+      ]
+    },
+    {
+      "id": "0bd48478-54df-4919-ba34-cf610eb0bb78",
+      "name": "pavan",
+      "email": "abcd@gmail.com",
+      "student_id": "23CS002",
+      "department": "COMPUTER SCIENCE",
+      "password": "$2b$12$1.lPBi2RqDWnlRMovM5iP.e/ESjqbxWwG8SVdjzXgSj5ONtGYO.SS",
+      "attendance": {
+        "Mathematics": {
+          "attended": 17,
+          "total": 21
+        },
+        "Physics": {
+          "attended": 15,
+          "total": 22
+        },
+        "Chemistry": {
+          "attended": 18,
+          "total": 20
+        },
+        "Computer Science": {
+          "attended": 15,
+          "total": 20
+        },
+        "English": {
+          "attended": 17,
+          "total": 20
+        }
+      },
+      "timetable": [
+        {
+          "id": "t1",
+          "day": "Monday",
+          "time": "09:00 - 10:00",
+          "subject": "Mathematics",
+          "room": "LH-101"
+        },
+        {
+          "id": "t2",
+          "day": "Monday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        },
+        {
+          "id": "t3",
+          "day": "Tuesday",
+          "time": "09:00 - 10:00",
+          "subject": "Chemistry",
+          "room": "LH-102"
+        },
+        {
+          "id": "t4",
+          "day": "Wednesday",
+          "time": "11:30 - 12:30",
+          "subject": "Computer Science",
+          "room": "LH-201"
+        },
+        {
+          "id": "t5",
+          "day": "Thursday",
+          "time": "14:00 - 15:00",
+          "subject": "English",
+          "room": "LH-103"
+        },
+        {
+          "id": "t6",
+          "day": "Friday",
+          "time": "10:15 - 11:15",
+          "subject": "Physics",
+          "room": "Lab-2"
+        }
+      ]
+    }
+  ]
+}
