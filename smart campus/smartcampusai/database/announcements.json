@@ -1,0 +1,34 @@
+[
+    {
+        "id": "ann_001",
+        "title": "Exam Timetable Published",
+        "body": "The final examination schedule for Semester 6 is now live on the student portal. All students are required to confirm their exam seating arrangements before July 18th.",
+        "priority": "high",
+        "date": "2026-07-14",
+        "author": "Academic Registrar"
+    },
+    {
+        "id": "ann_002",
+        "title": "Hostel WiFi Maintenance Window",
+        "body": "Scheduled network maintenance will cause WiFi disruptions in the hostel block this Thursday, from 10:00 PM to Friday 2:00 AM. Plan accordingly.",
+        "priority": "medium",
+        "date": "2026-07-13",
+        "author": "IT Services"
+    },
+    {
+        "id": "ann_003",
+        "title": "Library Digital Resource Access",
+        "body": "All students now have full access to IEEE Xplore, SpringerLink, and ACM Digital Library journals free of charge. Log in using your student credentials.",
+        "priority": "low",
+        "date": "2026-07-12",
+        "author": "Central Library"
+    },
+    {
+        "id": "ann_004",
+        "title": "Campus Hackathon Registration Closes Tonight",
+        "body": "This is the final reminder — Hackathon team registration closes at 11:59 PM tonight. Register your team at the event portal immediately.",
+        "priority": "high",
+        "date": "2026-07-14",
+        "author": "Student Affairs"
+    }
+]

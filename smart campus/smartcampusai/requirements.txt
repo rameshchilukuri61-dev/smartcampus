@@ -1,0 +1,29 @@
+# ============================================================
+# SmartCampusAI — Python Dependencies
+# ============================================================
+# Install with: pip install -r requirements.txt
+
+# ── Core Framework ───────────────────────────────────────────
+streamlit>=1.38.0
+
+# ── Authentication & Security ────────────────────────────────
+bcrypt>=4.1.0
+
+# ── HTTP / AI Integration ────────────────────────────────────
+requests>=2.31.0
+
+# ── Environment Variable Management ─────────────────────────
+python-dotenv>=1.0.1
+
+# ── Data Validation & Utilities ─────────────────────────────
+email-validator>=2.1.0
+
+# ── Optional: Google Gemini SDK ─────────────────────────────
+google-generativeai>=0.7.0
+
+# ── Optional: OpenAI SDK ─────────────────────────────────────
+openai>=1.30.0
+
+# ── Optional: Data Visualization ─────────────────────────────
+plotly>=5.22.0
+pandas>=2.2.0

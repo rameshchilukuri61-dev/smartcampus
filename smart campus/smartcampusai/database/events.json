@@ -1,0 +1,32 @@
+[
+    {
+        "id": "evt_001",
+        "title": "Annual Tech Hackathon 2026",
+        "description": "Compete in 24-hour innovation challenge. Build solutions for smart campus problems. Teams of 2–4 allowed. Prize pool: $5,000.",
+        "date": "2026-07-20",
+        "time": "09:00 AM",
+        "venue": "Engineering Auditorium",
+        "category": "competition",
+        "registration_deadline": "2026-07-14"
+    },
+    {
+        "id": "evt_002",
+        "title": "Final Examination Period",
+        "description": "Semester-end exams across all departments. Refer to individual exam schedules on the student portal.",
+        "date": "2026-07-22",
+        "time": "08:00 AM",
+        "venue": "Multiple Exam Halls",
+        "category": "academic",
+        "registration_deadline": null
+    },
+    {
+        "id": "evt_003",
+        "title": "AI & Machine Learning Workshop",
+        "description": "Hands-on workshop on real-world ML applications and neural networks. Certificate of completion provided.",
+        "date": "2026-07-28",
+        "time": "10:00 AM",
+        "venue": "CS Lab 201",
+        "category": "workshop",
+        "registration_deadline": "2026-07-25"
+    }
+]
